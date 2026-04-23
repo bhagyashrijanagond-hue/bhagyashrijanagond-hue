@@ -1,24 +1,54 @@
-Hi, I'm Bhagyashree 👋
-🎓 B.E. CSE Student at Dr. J.J. Magdum College of Engineering
-🙋‍♀️ About Me
-🏫 1st Year Computer Science Engineering
-💡 Interested in AI & Data Science and Full Stack Development
-🌱 Currently learning DSA, Python & Web Development
-📍 Kolhapur, Maharashtra
-🚀 Projects
-🏙️ Smart City Bus & Traffic System
-A smart city management app for bus routing and traffic monitoring
-Tech: React, HTML, CSS
-🗺️ Wayfarer
-A mobile-style travel and navigation app with maps and offline support
-Tech: HTML, CSS, JavaScript
-🛠️ Skills
-Languages: Python, C, HTML, CSS
-Tools: Git, GitHub, VS Code
-Interests: AI, Data Science, Web Development
-📊 GitHub Stats
-�
-Load image
-🧩 LeetCode
-Practicing DSA problems daily 💪
-"Code. Learn. Build. Repeat." 🔁
+# Hi 👋 I'm Bhagyashree Janagond
+
+🎓 B.E. CSE Student  
+🏫 Dr. J. J. Magdum College of Engineering  
+📍 Kolhapur, Maharashtra  
+
+💡 Interested in:
+Artificial Intelligence | Data Science | Full Stack Development
+
+---
+
+## 🚀 Currently Learning
+
+- Data Structures & Algorithms
+- Python Programming
+- Web Development
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+### Smart City Bus & Traffic System
+A smart city management app for bus routing and traffic monitoring  
+Tech Used: React, HTML, CSS
+
+### Wayfarer Navigation App
+A mobile-style travel and navigation app with maps and offline support  
+Tech Used: HTML, CSS, JavaScript
+
+---
+
+## 💻 Skills
+
+Languages:
+Python | C | HTML | CSS | JavaScript
+
+Tools:
+Git | GitHub | VS Code
+
+---
+
+## 🎯 Goals
+
+✔ Master DSA  
+✔ Build AI Projects  
+✔ Become Full Stack Developer  
+✔ Crack FAANG Placement
+
+---
+
+## 📚 Practice
+
+Solving DSA problems daily on LeetCode 💪
