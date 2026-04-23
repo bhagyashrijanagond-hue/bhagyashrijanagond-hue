@@ -51,4 +51,4 @@ Git | GitHub | VS Code
 
 ## 📚 Practice
 
-Solving DSA problems daily on LeetCode 💪
+Solving DSA problems daily on LeetCode 
